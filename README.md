@@ -1,7 +1,3 @@
-Here’s a **corrected and polished version** of your README file — I kept your tone but made it more professional, consistent, and complete:
-
----
-
 # 🌞 Solar Data Discovery — Week 1 Challenge
 
 This repository contains my submission for the **10 Academy Week 1 Challenge**, which focuses on exploring and analyzing solar farm data from **Benin, Sierra Leone, and Togo**.
