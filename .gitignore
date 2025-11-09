@@ -1,2 +1,17 @@
-.venv
-data
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+
+# OS files
+.DS_Store
+
+# VSCode
+.vscode/
